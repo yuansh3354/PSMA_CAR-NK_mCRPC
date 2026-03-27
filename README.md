@@ -8,7 +8,7 @@ The codebase facilitates the integration and analysis of longitudinal, multi-tim
 
 <div align='center' ><b><font size='150'>Overview of CaSee pipeline</font></b></div>
   
-<img src="IMG_00001.jpg" width="3000px"/>
+<img src="IMG_00001.png" width="3000px"/>
 
 
 ## Pre-requisites:
